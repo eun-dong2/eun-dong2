@@ -5,8 +5,9 @@
 
 # Skills
 ### Platforms & Languages
-
-
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat-square&logo=html5&logoColor=white"/>
 
 
 # Contacts
